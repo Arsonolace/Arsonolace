@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Knapp</h1>
 <h3 align="center">A passionate technology student from Florida.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsonolace&label=Profile%20views&color=0e75b6&style=flat" alt="arsonolace" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arsonolace&label=Profile%20views&color=0e75b6&style=flat" alt="arsonolace" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsonolace" alt="arsonolace" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsonolace" alt="arsonolace" /></a> </p>
 
 - 🔭 I’m currently studying **Computer Science** & **Electrical Engineering**
 
