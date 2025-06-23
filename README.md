@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexander Knapp</h1>
-<h3 align="center">A passionate technology enthusiast from Texas.</h3>
+<h3 align="center">A passionate technology student from Florida.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsonolace&label=Profile%20views&color=0e75b6&style=flat" alt="arsonolace" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsonolace" alt="arsonolace" /></a> </p>
 
-- 🔭 I’m currently working on **Google's IT Certification**
+- 🔭 I’m currently studying **Computer Science** & **Electrical Engineering**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Pytorch**, **CUDA**, and **MATLAB**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **Artificial Intelligence and Generative AI**
-
-- 📄 Know about my experiences [knappalex.com](knappalex.com)
-
-- ⚡ Fun fact **I was born in Russia**
+- 👯 I’m looking to learn more about **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
